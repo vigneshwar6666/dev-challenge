@@ -5,9 +5,18 @@ footer {
 }
 
 h4{
-  color: orangered;
+  color: red;
 }
 
 footer{
   background-color: red;
+}
+red-label{
+  color: red;
+}
+green-label{
+  color: green;
+}
+blue-label{
+  color: blue;
 }
